@@ -2,7 +2,7 @@
 
 - 🔭 Studying Informatics and Computing Engineering at @FEUP
 - 💻 I’m always programming...
-- 😄 I’m  working on projects of NIAEFEUP (Informatics Student’s Branch at the Faculty of Engineering of the University of Porto)
+- 😄 I’m working on projects of NIAEFEUP (Informatics Student’s Branch at the Faculty of Engineering of the University of Porto)
 
 <div align="left">
   <a href="https://github.com/CarlosMealha">
